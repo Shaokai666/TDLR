@@ -1,2 +1,2 @@
 # TDLR
-#All databases are accessed with the consent of the owner. If you have any questions, please contact the author (shaokai1209@gmail.com).
+#All databases should be accessed with the consent of its owner. If you have any questions, please contact the author (shaokai1209@gmail.com).
