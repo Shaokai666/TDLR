@@ -1,2 +1,2 @@
 # TDLR
-#All databases are accessed through a private link, if you have any questions or want to access the database, please contact the author (shaokai1209@gmail.com).
+#All databases are accessed with the consent of the owner. If you have any questions, please contact the author (shaokai1209@gmail.com).
